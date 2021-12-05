@@ -3,4 +3,3 @@
 
 ##### Technology stack: Next.js, TypeScript, CSS
 
-##### View: https://shrafov-net-tau.vercel.app/
